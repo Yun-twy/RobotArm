@@ -1,3 +1,3 @@
 ### RobotArm challenge with DOBOT
 
-![Alt text](robotarm.heic)
+![Alt text](robotarm.PNG)
